@@ -1,0 +1,51 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 10-Sep-2016, 3:08:53 AM
+    Author     : Dan-Ghenadie Roman
+*/
+
+.customNav{
+    margin: 10px;
+    padding: 10px;
+    text-align: center;
+    font-size: large;
+    border-color: red;
+    border-style: solid;
+    background-color: silver;
+    min-height: 50px;
+}
+.customSearch{
+    margin: 10px;
+    padding: 10px;
+    text-align: center;
+    font-size: large;
+    border-color: red;
+    border-style: solid;
+    background-color: silver;
+    min-height: 50px;
+}
+.customAds{
+    margin: 10px;
+    padding: 10px;
+    text-align: center;
+    font-size: large;
+    border-color: red;
+    border-style: solid;
+    background-color: silver;
+    min-height: 50px;
+}
+.customFooter{
+    margin: 10px;
+    padding: 10px;
+    text-align: center;
+    font-size: large;
+    border-color: red;
+    border-style: solid;
+    background-color: silver;
+    min-height: 50px;
+}
+
